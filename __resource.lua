@@ -20,7 +20,3 @@ server_scripts {
   'server/utils.lua',
   'server/loader.lua',
 }
-
-dependencies {
-  'es_extended'
-}
