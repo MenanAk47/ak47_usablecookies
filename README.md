@@ -2,7 +2,7 @@
 <p>Required minimum <span style="color: #339966;">$10</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p>Video Showcase: <a href="https://youtu.be/tNQ3U5F6yv8" target="_blank">YouTube</a></p>
 <p><strong>Fully Compatible With</strong>&nbsp;<a href="https://github.com/MenanAk47/ak47_usablecookiesv2" target="_blank"><strong>ak47_usablecookiesv2</strong></a></p>
-<p><span style="color: #ff0000;"><strong>Not compatible with ox/linden inventory </strong></span>(other inventory works except this one)</p>
+<p><span style="color: #ff0000;"><strong>Not compatible with ox/linden inventory </strong></span>(all other inventory works except this one)</p>
 <p><strong>New Features: </strong></p>
 <ol>
 <li>79 items included</li>
